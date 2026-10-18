@@ -8,9 +8,6 @@ main:
   - name: Publicaciones
     url: /#publicaciones
     weight: 30
-  - name: Ponencias
-    url: /#ponencias
-    weight: 40
   - name: Trayectoria
     url: experience/
     weight: 50

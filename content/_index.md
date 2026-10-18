@@ -71,17 +71,6 @@ sections:
       columns: '1'
 
   - block: markdown
-    id: ponencias
-    content:
-      title: 'Ponencias'
-      subtitle: ''
-      text: |-
-        - **2025.** «Extensión universitaria en clave decolonial: del conocimiento que se lleva al conocimiento que se construye». XX Encuentro Latinoamericano FELAFACS, Palmas (Brasil).
-        - **2024.** «Voces que siembran memoria: radio y archivo sonoro comunitario en territorios rurales del Tolima». Encuentro Regional FELAFACS México, área Nuevas Narrativas.
-    design:
-      columns: '1'
-
-  - block: markdown
     id: reconocimientos
     content:
       title: 'Reconocimientos'
