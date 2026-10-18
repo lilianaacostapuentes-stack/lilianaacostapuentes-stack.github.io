@@ -291,4 +291,4 @@ hugoblox:
 # Contador de visitas (GoatCounter). Escribe aquí el código de la cuenta, p. ej. "lilianaacostapuentes".
 # Mientras esté vacío, el contador no aparece.
 contador_visitas:
-  goatcounter: ""
+  goatcounter: "lilianaacostapuentes"
