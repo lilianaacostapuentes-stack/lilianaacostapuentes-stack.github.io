@@ -1,14 +1,13 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Proyectos'
+date: 2026-10-18
 type: landing
 
-# Page sections
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Proyectos
+      text: Estrategias y materiales de comunicación comunitaria construidos con las comunidades del Tolima.
       filters:
         folders:
           - projects
