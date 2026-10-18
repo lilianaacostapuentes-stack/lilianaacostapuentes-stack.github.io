@@ -1,0 +1,11 @@
+{{- /* Contador de visitas con GoatCounter. Se activa al poner el código de la cuenta en params.yaml (contador_visitas.goatcounter). */ -}}
+{{- with site.Params.contador_visitas.goatcounter -}}
+<p class="text-center text-xs opacity-70 mb-2">Visitas: <span id="contador-visitas">…</span></p>
+<script data-goatcounter="https://{{ . }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+<script>
+  fetch('https://{{ . }}.goatcounter.com/counter/TOTAL.json')
+    .then(function (r) { return r.json(); })
+    .then(function (d) { document.getElementById('contador-visitas').textContent = d.count; })
+    .catch(function () { var p = document.getElementById('contador-visitas'); if (p) p.parentNode.style.display = 'none'; });
+</script>
+{{- end -}}

@@ -52,21 +52,36 @@ education:
     end: '2019'
 
 experience:
-  - role: Directora de Extensión y Proyección Social
-    org: Universidad del Tolima
-    summary: |
-      Dirección de la extensión universitaria y de los vínculos de la Universidad con las comunidades del Tolima.
-  - role: Docente de hora cátedra
-    org: Universidad del Tolima
-    start: '2021-01-01'
-    summary: |
-      Constitución Política; Educación y Competencias Ciudadanas y Justicia Constitucional y Derechos Humanos (Especialización en Derechos Humanos); Narrativas Radiofónicas; Periodismo Cultural; Práctica Profesional; Comunicación Jurídica.
-  - role: Directora del Departamento de Artes y Humanidades
-    org: Universidad del Tolima
-    summary: |
-      Dos vinculaciones como directora del Departamento.
   - role: Docente
     org: Universidad de La Guajira
     start: '2026-01-01'
     summary: |
       Asignatura Comunicación y Derecho.
+  - role: Directora de Extensión y Proyección Social
+    org: Universidad del Tolima
+    start: '2024-04-25'
+    summary: |
+      Dirección de la extensión universitaria y de los vínculos de la Universidad con las comunidades del Tolima.
+  - role: Directora del Departamento de Ciencias Sociales y Jurídicas
+    org: Universidad del Tolima
+    start: '2024-01-18'
+    end: '2024-12-26'
+  - role: Directora del Departamento de Artes y Humanidades
+    org: Universidad del Tolima
+    start: '2022-10-01'
+    end: '2023-12-26'
+    summary: |
+      Dos vinculaciones como directora del Departamento.
+  - role: Docente de hora cátedra
+    org: Universidad del Tolima
+    start: '2021-01-01'
+    summary: |
+      Constitución Política; Educación y Competencias Ciudadanas y Justicia Constitucional y Derechos Humanos (Especialización en Derechos Humanos); Narrativas Radiofónicas; Periodismo Cultural; Práctica Profesional; Comunicación Jurídica.
+  - role: Comunicaciones
+    org: Colmundo Radio, Ibagué
+    start: '2012-05-02'
+    end: '2014-01-31'
+  - role: Comunicaciones
+    org: Panorama Stéreo, Gigante (Huila)
+    start: '2004-10-22'
+    end: '2007-10-24'
