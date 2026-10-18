@@ -1,11 +1,13 @@
 ---
-title: 'Tesis de Maestría en Territorio, Conflicto y Cultura'
+title: 'La participación ciudadana en el ordenamiento territorial de Icononzo, 2007-2024'
 authors:
   - me
 date: '2025-01-01'
-draft: true
 publication_types: ['thesis']
 publication:
-  name: 'Universidad del Tolima'
-summary: Participación ciudadana en el ordenamiento territorial de Icononzo (Tolima). Documento con reserva legal.
+  name: 'Tesis de Maestría en Territorio, Conflicto y Cultura, Universidad del Tolima'
+summary: Documento con reserva legal; no está disponible para descarga.
+tags:
+  - Participación ciudadana
+  - Ordenamiento territorial
 ---
